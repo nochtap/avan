@@ -1,4 +1,8 @@
 hello sista
 hello bro
 this rox
+<<<<<<< HEAD
 this will conflict
+=======
+this will conflict, too (web)
+>>>>>>> 8622db456e7a8280c21e8e68b377d0cbd0fae043
