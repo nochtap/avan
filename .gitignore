@@ -1,5 +1,3 @@
 # git ignore file
-MyFirstGitProject/bin/
-MyFirstGitProject/obj/
-MyFirstGitProject.Tests/bin
-MyFirstGitProject.Tests/obj
+jaydata
+jaydata/*
